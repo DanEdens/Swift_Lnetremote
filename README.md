@@ -1,3 +1,7 @@
+Haven't really worked on this. 
+Did the inital research but we went in another direction.
+May revist later.
+
 Moscapsule
 ==========
 
